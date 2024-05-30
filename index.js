@@ -9,3 +9,7 @@ menuBtn.addEventListener("click", ()=>{
 closeMenuBtn.addEventListener("click", ()=>{
     menuBtn.click();
 });
+
+
+// contact 
+
